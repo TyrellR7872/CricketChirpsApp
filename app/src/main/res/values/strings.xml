@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cricket Chirps App</string>
+    <string name="myThermometer">thermometer</string>
+    <string name="chirpdesc">chirpDesc</string>
+    <string name="enterNumHint">Enter your number here</string>
+    <string name="calcTempF">To Fahrenheit</string>
+    <string name="calcTempC">To Celsius</string>
+    <string name="tvResults">tvResults</string>
+    <string name="approxTemp">The approximate temperature outside is </string>
+    <string name="fahrenheit"> degrees Fahrenheit</string>
+    <string name="celsius"> degrees Celsius</string>
+    <string name="enterNumDesc">Did you know you can determine the temperature outside by counting the number of chirps a cricket makes? Just count the number of chirps it makes in 14 seconds and enter the number below!</string>
+</resources>
